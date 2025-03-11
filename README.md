@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulkumarnaik
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java,Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LinkedIn-https:www.linkedin.com/in/rahul-kumar-naik-334272262
 - 😄 Pronouns: ...
